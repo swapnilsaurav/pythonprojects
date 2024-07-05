@@ -1,0 +1,16 @@
+questions = [{'question': 'question1- This is a Very long question with a long text for testing of the app jldksaff adsfh jdsfhdskjl fhsdklfh dsfhsdliu hlkdsh fkjldshf kljdshfjdsfhidshfildshfds hfkildshfldshlf',
+              'choices': ['mh', 'c2', 'c3', 'c4'],
+              'answer': 2},
+             {'question': 'question1- This is a Very long question with a longquestion1- This is a Very long question with a longquestion1- This is a Very long question with a longquestion1- This is a Very long question with a longquestion2',
+              'choices': ['c0', 'ce', 'ca', 'DB'],
+              'answer': 3},
+             {'question': 'question1- This is a Very long question with a longquestion1- This is a Very long question with a longquestion1- This is a Very long question with a longquestion1- This is a Very long question with a longquestion1- This is a Very long question with a longquestion3',
+              'choices': ['65', 'ui', 're', 'cr'],
+              'answer': 1},
+             {'question': 'question1- This is a Very long question with a longquestion1- This is a Very long question with a longquestion1- This is a Very long question with a longquestion1- This is a Very long question with a long6*4',
+              'choices': ['20', '18', '24', 'cr'],
+              'answer': 3},
+             {'question': 'question1- This is a Very long question with a longquestion1- This is a Very long question with a longquestion1- This is a Very long question with a longquestion1- This is a Very long question with a longquestion1- This is a Very long question with a long6*5',
+              'choices': ['30', '28', '21', 'cr'],
+              'answer': 1}
+             ]
